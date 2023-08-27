@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "786983611937",
+    "project_id": "trampoline-87e67",
+    "storage_bucket": "trampoline-87e67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786983611937:android:71d955bbd96ee6110ffd60",
+        "android_client_info": {
+          "package_name": "com.example.trampoline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786983611937-g8vk7smqpkfrr25heb068ijm93rl7ddp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPgHB_v_rltmm3-9dCAlYrjTf2j1u2N3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786983611937-g8vk7smqpkfrr25heb068ijm93rl7ddp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
